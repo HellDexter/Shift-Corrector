@@ -1,0 +1,5 @@
+{
+  "name": "JAFA Shift Corrector",
+  "description": "An application to load, correct, and recalculate employee travel time based on shifts, and export the report to Excel. The data is based on border crossing records.",
+  "requestFramePermissions": []
+}
